@@ -91,7 +91,7 @@ def CreatePlot(var):
     canvas.SaveAs("IsoMu24_Efficiency_vs_%s_NanoAOD.pdf" % (var))
     return
 
-file = ROOT.TFile("histos_SingleMuTrigAnalyzer_NanoAOD.root")
+file = ROOT.TFile("histos_SingleMuTrigNanoAOD.root")
 workdir = file.GetDirectory("singleMuTrigAnalyzerNanoAOD")
 variables = ["pt", "eta", "phi"]
 for var in variables:
