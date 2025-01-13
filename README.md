@@ -17,7 +17,7 @@ Twiki: [link](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSch
 7. Tetiana Mazurets
 
 ## References or useful links
-Twiki of Trigger exercise of CMS DAS @ LPC/FNAL 2024 : [link](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideCMSDataAnalysisSchoolCERN2023TriggerExercise)
+Twiki of Trigger exercise of CMS DAS @ LPC/FNAL 2024 : [link](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideCMSDataAnalysisSchoolLPC2024TriggerExercise)
 
 Twiki of Trigger exercise of CMS DAS @ CERN 2023 : [link](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideCMSDataAnalysisSchoolCERN2023TriggerExercise)
 
