@@ -1,9 +1,9 @@
 # Trigger Short Exercise 2025
-Trigger short exercise CMS DAS @ LPC/FNAL, January 2025 ([Indico]([https://indico.cern.ch/event/1388937/](https://indico.cern.ch/event/1462056/)))
+Trigger short exercise CMS DAS @ LPC/FNAL, January 2025 ([Indico](https://indico.cern.ch/event/1462056/))
 
-Slides can be found [here]([https://docs.google.com/presentation/d/1QEnsiFPUbY2XtM92Q7x1YLCQcJLH7vEjxXImIo_vR5s/edit#slide=id.g2e2500f5b74_0_138](https://docs.google.com/presentation/d/10bNyIuIzcPBya37cmpB6xh_B0ruhhrSkWSlPN0ALSao/edit?usp=sharing))
+Slides can be found [here](https://docs.google.com/presentation/d/10bNyIuIzcPBya37cmpB6xh_B0ruhhrSkWSlPN0ALSao/edit?usp=sharing)
 
-Please join our Mattermost channel for Q&A ([link](https://mattermost.web.cern.ch/cmsdaslpc2025/channels/shortextrigge))
+Please join our Mattermost channel for Q&A ([link](https://mattermost.web.cern.ch/cmsdaslpc2025/channels/shortextrigger))
 
 Twiki with Exercises: [link](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2025TriggerExercise)
 
