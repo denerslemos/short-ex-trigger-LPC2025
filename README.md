@@ -5,7 +5,7 @@ Slides can be found [here](https://docs.google.com/presentation/d/10bNyIuIzcPBya
 
 Please join our Mattermost channel for Q&A ([link](https://mattermost.web.cern.ch/cmsdaslpc2025/channels/shortextrigger))
 
-Twiki with Exercises: [link](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2025TriggerExercise)
+Twiki: [link](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2025TriggerExercise)
 
 ## Facilitators
 1. Abhijith Gandrakota
