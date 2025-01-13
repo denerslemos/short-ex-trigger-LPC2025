@@ -7,7 +7,7 @@
 #include "TEfficiency.h"
 #include "TStyle.h"
 
-void plot_trigeff_met (const TString& infile = "histos_SingleMuTrigAnalyzer_MiniAOD.root") {
+void plot_trigeff_met (const TString& infile = "histos_METTrigAnalyzer.root") {
 
   gStyle->SetPadTopMargin(0.08);
   gStyle->SetPadBottomMargin(0.12);
