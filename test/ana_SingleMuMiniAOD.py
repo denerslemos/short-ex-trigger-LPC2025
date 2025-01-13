@@ -20,11 +20,10 @@ process.maxEvents = cms.untracked.PSet(
 # Input source
 process.source = cms.Source("PoolSource",
                             fileNames = cms.untracked.vstring(
-                                    #'file:/eos/user/c/cmsdas/2024/short-ex-triggers/skimmedMINIAOD_Muon_2023/test/skim.root'
-                                    'file:/eos/user/c/cmsdas/2024/short-ex-triggers/skimmedMINIAOD_Muon_2023/skim_1.root',
-                                    'file:/eos/user/c/cmsdas/2024/short-ex-triggers/skimmedMINIAOD_Muon_2023/skim_2.root',
-                                    'file:/eos/user/c/cmsdas/2024/short-ex-triggers/skimmedMINIAOD_Muon_2023/skim_3.root',
-                                    'file:/eos/user/c/cmsdas/2024/short-ex-triggers/skimmedMINIAOD_Muon_2023/skim_4.root',
+                                    'file:/eos/uscms/store/user/cmsdas/2025/short_exercises/trigger/skimmedMINIAOD_Muon_2023/skim_1.root',
+                                    'file:/eos/uscms/store/user/cmsdas/2025/short_exercises/trigger/skimmedMINIAOD_Muon_2023/skim_2.root',
+                                    'file:/eos/uscms/store/user/cmsdas/2025/short_exercises/trigger/skimmedMINIAOD_Muon_2023/skim_3.root',
+                                    'file:/eos/uscms/store/user/cmsdas/2025/short_exercises/trigger/skimmedMINIAOD_Muon_2023/skim_4.root',
                             ),
 )
 
